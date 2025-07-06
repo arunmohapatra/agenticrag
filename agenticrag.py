@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Agentic RAG using LangGraph + ChromaDB + OpenAI GPT-3.5
 Updated to support LangChain v0.2.x structure
