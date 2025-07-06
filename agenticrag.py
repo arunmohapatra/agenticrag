@@ -56,7 +56,7 @@ if not docs:
     raise ValueError("❌ No documents found for embeddiMarkdown Preview Mermaid Supportng.")
 
 print("-------------------")
-openai_api_key = "sk-proj-OYrlZFcR0kFJqmf55Fjoyycg1bTezoooXicKlZUJkcbZzF82dNSyLKB9US8GZR7S4cq28k616hOPpvZpE48BMA"
+openai_api_key = "sk-proj-OYrlZFcR0kFJqmf55Fjoyycg1bTezoooXicKlZUJkc..............."
 embedding = OpenAIEmbeddings(openai_api_key=openai_api_key)
 
 try:
